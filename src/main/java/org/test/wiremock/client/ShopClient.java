@@ -7,7 +7,7 @@ import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-public class Client1 {
+public class ShopClient {
 	
 	public Response getUsers() {
 		
